@@ -3,3 +3,6 @@ fix bug 1 in dev file
 fix bug 2 in dev file
 
 fix bug 3 in dev file
+
+add the first feature in dev file 
+add the second feature in dev file
